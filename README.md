@@ -2,19 +2,19 @@
   <h2> 🚀 Learning: </h2>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,azure,c&perline=4" />
+      <img src="https://skillicons.dev/icons?i=nodejs,ai,react,c&perline=4&theme=dark" />
     </a>
   </p>
   <h2> 🎯 Skills: </h2>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,r,java,html,qt,sklearn,selenium,flask,tensorflow,&perline=4" />
+      <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql&perline=3&theme=dark" />
     </a>
   </p>
   <h2> 🛠️ Tools: </h2>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,&perline=4" />
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,&perline=4&theme=dark" />
     </a>
   </p>
 </div>
