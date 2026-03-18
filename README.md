@@ -2,7 +2,7 @@
   <h2> 🚀 Learning: </h2>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,ai,react,c&perline=4&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=ai,nodejs,ts,react,c&perline=4&theme=dark" />
     </a>
   </p>
   <h2> 🎯 Skills: </h2>
